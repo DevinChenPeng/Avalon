@@ -1,4 +1,8 @@
 :root {
   --color-bg: #0F1C2E;
   --color-text: #fff;
+  --padding-s: 12px;
+  --padding-m: 16px;
+  --padding-l: 20px;
+  --padding-xl: 24px;
 }
